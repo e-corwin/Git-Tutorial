@@ -6,13 +6,3 @@ print(“new feature”)
 
 
 
-
-
-
-print("testing-2")
-=======
-
-
-
-print("testing")
->>>>>>> Stashed changes
